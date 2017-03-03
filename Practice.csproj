@@ -61,6 +61,7 @@
     <Compile Include="GreaterSumBST.cs" />
     <Compile Include="IntegerTransform.cs" />
     <Compile Include="kLengthShortestPath.cs" />
+    <Compile Include="LargestAncestorDescendantDifference.cs" />
     <Compile Include="LargestBST.cs" />
     <Compile Include="LoopDetectorAndRemover.cs" />
     <Compile Include="LowestMissingPositive.cs" />

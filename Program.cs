@@ -107,7 +107,9 @@ class Program
 
         //BinaryNode bst = new SortedArrayToBalancedBST().toBalancedBST(new List<int> { 1, 2, 3, 4, 5 });
 
-        Console.WriteLine(new LargestBST().largestBSTSize(GetBinaryNode1()));
+        //Console.WriteLine(new LargestBST().largestBSTSize(GetBinaryNode1()));
+
+        //Console.WriteLine(new LargestAncestorDescendantDifference().largestDifference(GetBinaryNode1()));
 
         Console.ReadKey();
     }
@@ -143,11 +145,11 @@ class Program
 
     private static BinaryNode GetBinaryNode1()
     {
-        var n5 = new BinaryNode(8, null, null);
-        var n2 = new BinaryNode(4, null, null);
-        var n4 = new BinaryNode(12, null, null);
-        var n1 = new BinaryNode(2, null, null);
-        var n3 = new BinaryNode(6, null, null);
+        var n5 = new BinaryNode(5, null, null);
+        var n2 = new BinaryNode(2, null, null);
+        var n4 = new BinaryNode(4, null, null);
+        var n1 = new BinaryNode(1, null, null);
+        var n3 = new BinaryNode(3, null, null);
 
         n5.right = n4;
         n5.left = n2;
