@@ -1,0 +1,8 @@
+D:\C#\Puzzles\Practice\bin\Debug\Practice.exe.config
+D:\C#\Puzzles\Practice\bin\Debug\Practice.exe
+D:\C#\Puzzles\Practice\bin\Debug\Practice.pdb
+D:\C#\Puzzles\Practice\obj\Debug\Practice.exe
+D:\C#\Puzzles\Practice\obj\Debug\Practice.pdb
+D:\C#\Puzzles\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+D:\C#\Puzzles\Practice\bin\Debug\Puzzles.exe
+D:\C#\Puzzles\Practice\bin\Debug\Puzzles.pdb
